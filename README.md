@@ -43,5 +43,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 - This project uses the [inquirer](https://www.npmjs.com/package/inquirer) library for command-line user interactions.
 
-Feel free to customize this README file with additional information, such as contact details, troubleshooting tips, or any other relevant information for users of your application.
 
