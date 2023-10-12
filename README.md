@@ -10,22 +10,22 @@ Before using this application, you should have Node.js and npm (Node Package Man
 
 1. Clone this repository to your local machine or download the source code.
 
-  `git clone https://github.com/devmianharoon/currency-converter.git`
+                 `git clone https://github.com/devmianharoon/currency-converter.git`
 
 2. Navigate to the project directory:
 
-  `cd currency-converter`
+                 `cd currency-converter`
 
 3. Install the required dependencies using npm:
 
-  `npm install`
+                  `npm install`
 
 
 ## Usage
 
 To run the currency conversion application, execute the following command:
 
-  `npm start`
+                 `npm start`
 
 
 The application will prompt you for the following information:
