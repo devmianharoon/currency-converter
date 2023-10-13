@@ -10,22 +10,22 @@ Before using this application, you should have Node.js and npm (Node Package Man
 
 1. Clone this repository to your local machine or download the source code.
 
-  `git clone https://github.com/devmianharoon/currency-converter.git`
+                 `git clone https://github.com/devmianharoon/currency-converter.git`
 
 2. Navigate to the project directory:
 
-  `cd currency-converter`
+                 `cd currency-converter`
 
 3. Install the required dependencies using npm:
 
-  `npm install`
+                  `npm install`
 
 
 ## Usage
 
 To run the currency conversion application, execute the following command:
 
-  `npm start`
+                 `npm start`
 
 
 The application will prompt you for the following information:
@@ -43,5 +43,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 - This project uses the [inquirer](https://www.npmjs.com/package/inquirer) library for command-line user interactions.
 
-Feel free to customize this README file with additional information, such as contact details, troubleshooting tips, or any other relevant information for users of your application.
 
